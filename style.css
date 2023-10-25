@@ -209,6 +209,7 @@ button:active {
         width: inherit;
         background-color: #000;
         color: antiquewhite;
+        border-radius: 0 0 2rem 2rem;
     }
 
     .summary {
