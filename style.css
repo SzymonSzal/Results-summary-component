@@ -99,7 +99,7 @@ body {
 
 .reaction {
     color: grey;
-    background-color: hsla(253, 100%, 67%, 0.04);
+    background-color: hsla(0, 100%, 67%, 0.04);
     min-width: 270px;
     display: flex;
     justify-content: space-between;
